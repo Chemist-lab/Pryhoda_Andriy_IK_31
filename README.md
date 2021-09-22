@@ -10,3 +10,15 @@ git clone https://github.com/Chemist-lab/Pryhoda_Andriy_IK_31.git
 ```sh
 git log
 ```
+
+### 3. Створив нову гілку за допопомогою команди:
+```sh
+git branch c_lab
+
+```
+### і переключився на цю гілку за допопомогою команди:
+```sh
+git checkout c_lab
+```
+
+### 4. Зміни не відобразилися через те, що комміт відсилався на гілку c_lab
