@@ -1,0 +1,9 @@
+INFO 2021-11-05 22:59:42,475 root : Сервер доступний. Час на сервері: 05.11.21 20:59
+INFO 2021-11-05 22:59:42,476 root : Запитувана сторінка: : localhost:8000/health/
+INFO 2021-11-05 22:59:42,476 root : Відповідь сервера місти наступні поля:
+INFO 2021-11-05 22:59:42,476 root : Ключ: date, Значення: 05.11.21 20:59
+INFO 2021-11-05 22:59:42,476 root : Ключ: current_page, Значення: localhost:8000/health/
+INFO 2021-11-05 22:59:42,476 root : Ключ: server_info, Значення: OSName: Linux; NodeName: chemist-VirtualBox; Release:5.11.0-38-generic; Version:#42~20.04.1-Ubuntu SMP Tue Sep 28 20:41:07 UTC 2021; Indentificator:x86_64
+INFO 2021-11-05 22:59:42,476 root : Ключ: client_info, Значення: Browser: python-requests/2.22.0  IP: 127.0.0.1 
+ERROR 2021-11-05 23:00:42,503 root : Сервер недоступний.
+ERROR 2021-11-05 23:01:42,555 root : Сервер недоступний.
